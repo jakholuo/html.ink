@@ -1,0 +1,8 @@
+.csdn-container {
+  column-count: 2;
+  column-gap: 20px;
+  .csdn-item {
+    break-inside: avoid;
+    padding-bottom: 20px;
+  }
+}

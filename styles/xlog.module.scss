@@ -1,0 +1,8 @@
+.xlog-container {
+  column-count: 2;
+  column-gap: 20px;
+  .xlog-item {
+    break-inside: avoid;
+    padding-bottom: 20px;
+  }
+}
